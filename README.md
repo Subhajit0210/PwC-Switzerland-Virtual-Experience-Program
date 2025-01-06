@@ -1,45 +1,45 @@
-# PwC Switzerland Virtual Experience Program
+# PwC Switzerland Virtual Experience Program - Power BI
 
-Welcome to the **PwC Switzerland Virtual Experience Program** repository. This program provides you with a hands-on, realistic preview of working at PwC, offering insight into various business areas such as Audit, Cybersecurity, Digital Assurance, Corporate Tax, Digital Intelligence, and Power BI.
+Welcome to the **PwC Switzerland Virtual Experience Program** repository for **Power BI**. This program provides you with a hands-on, realistic preview of working with Power BI at PwC, offering insight into data analysis, reporting, and business intelligence processes.
 
 ### Key Features:
 
 - **Real-World Simulations**  
-  Work on simulated client projects, providing you with practical experience and a better understanding of PwC’s operations.
-  
+  Work on simulated projects related to Power BI, giving you practical experience in data visualization, report creation, and data analysis, all within a professional services environment.
+
 - **Skill Building**  
-  Develop essential skills like problem-solving, data analysis, communication, and teamwork that are crucial in a professional services environment.
+  Develop key skills in Power BI, such as data modeling, DAX (Data Analysis Expressions), creating interactive dashboards, and deriving business insights from data.
 
 - **Flexible Learning**  
-  Complete the program at your own pace. You can balance the program with other commitments while gaining valuable experience.
+  Complete the program at your own pace, allowing you to balance other commitments while gaining valuable Power BI experience.
 
 - **Certification**  
-  Upon completion, you’ll receive a certificate that will enhance your resume and LinkedIn profile, showcasing your PwC experience.
+  Upon successful completion, you’ll receive a certificate that will enhance your resume and LinkedIn profile, showcasing your skills in Power BI.
 
 - **Networking Opportunities**  
-  Connect with mentors, professionals, and peers, building your professional network and learning from others in the program.
+  Connect with mentors, professionals, and peers working in the field of data analysis and business intelligence, expanding your professional network.
 
 ### How to Enroll:
 
 1. **Registration**  
-   Sign up on the PwC Switzerland Virtual Case Experience page to get started.
+   Sign up on the PwC Switzerland Virtual Experience Program page for Power BI to get started.
 
 2. **Selection**  
-   Choose the program that aligns with your area of interest, whether it's Audit, Tax, Consulting, or Digital Intelligence.
+   Choose the Power BI track within the program, focusing on creating interactive reports and dashboards for business insights.
 
 3. **Complete Tasks**  
-   Engage with the content, work through the tasks, and complete them at your own pace.
+   Engage with the content, work through Power BI-related tasks, and complete them at your own pace.
 
 4. **Earn Certification**  
-   Once you’ve completed the program, you’ll earn a certificate of completion.
+   Upon completion of the tasks, you will earn a certificate recognizing your Power BI expertise.
 
 ### Why Participate?
 
 This virtual experience program is an excellent opportunity to:
-- Gain a deeper understanding of the professional services industry.
-- Explore career paths at PwC.
-- Build a portfolio of valuable skills that will make you stand out in your career journey.
+- Gain in-depth knowledge of Power BI tools and their application in business intelligence.
+- Learn how to transform data into actionable insights.
+- Build a portfolio of Power BI skills that will make you stand out in data analytics and business intelligence roles.
 
 ### Get Started
 
-For more information and to enroll, visit the [PwC Switzerland Virtual Case Experience page](https://www.pwc.ch/en/careers-with-pwc/students/virtual-case-experience.html).
+For more information and to enroll, visit the [PwC Switzerland Virtual Experience Program for Power BI](https://www.pwc.ch/en/careers-with-pwc/students/virtual-case-experience.html).
