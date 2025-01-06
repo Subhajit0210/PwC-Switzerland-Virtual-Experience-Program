@@ -42,4 +42,4 @@ This virtual experience program is an excellent opportunity to:
 
 ### Get Started
 
-For more information and to enroll, visit the [PwC Switzerland Virtual Experience Program for Power BI](https://www.pwc.ch/en/careers-with-pwc/students/virtual-case-experience.html).
+For more information and to enroll, visit the [PwC Switzerland Virtual Experience Program for Power BI](https://www.theforage.com/simulations/pwc-ch/power-bi-cqxg).
