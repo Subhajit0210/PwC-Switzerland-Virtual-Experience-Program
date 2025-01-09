@@ -33,7 +33,7 @@ Welcome to the **PwC Switzerland Virtual Experience Program** repository for **P
 4. **Earn Certification**  
    Upon completion of the tasks, you will earn a certificate recognizing your Power BI expertise.
 
-### Why Participate?
+### Why You Need To Participate?
 
 This virtual experience program is an excellent opportunity to:
 - Gain in-depth knowledge of Power BI tools and their application in business intelligence.
